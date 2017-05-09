@@ -1,0 +1,5 @@
+/Users/williamcuc/Projects/Ejercicio9LaboratorioUMG/Ejercicio9LaboratorioUMG/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/Users/williamcuc/Projects/Ejercicio9LaboratorioUMG/Ejercicio9LaboratorioUMG/bin/Debug/Ejercicio9LaboratorioUMG.exe.mdb
+/Users/williamcuc/Projects/Ejercicio9LaboratorioUMG/Ejercicio9LaboratorioUMG/bin/Debug/Ejercicio9LaboratorioUMG.exe
+/Users/williamcuc/Projects/Ejercicio9LaboratorioUMG/Ejercicio9LaboratorioUMG/obj/x86/Debug/Ejercicio9LaboratorioUMG.exe
+/Users/williamcuc/Projects/Ejercicio9LaboratorioUMG/Ejercicio9LaboratorioUMG/obj/x86/Debug/Ejercicio9LaboratorioUMG.exe.mdb
